@@ -7,4 +7,5 @@ MYtool:
 		4- Attack detection [listen to unknown ports and check if there is someone try to connect]
 		5- Parse any link and extract all tags, comments, domains, subdomains and full URLs from it.
     
-    Run tool and choose what do you want !!
+    Run python3 myTool 
+    
