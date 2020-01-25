@@ -3,7 +3,7 @@ import Scraper
 import LogParser
 import DirMonitoring
 import PortScanner
-# import AttackDetect
+import AttackDetect
 
 try:
 	while True :
